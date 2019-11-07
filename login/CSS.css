@@ -9,7 +9,7 @@ body {
   font-family: 'Roboto';
 }
 .flat-form {
-  background: #e74c3c;
+  background: #337ab7;
   margin: 25px auto;
   width: 390px;
   height: 370px;
@@ -17,7 +17,7 @@ body {
   font-family: 'Roboto';
 }
 .tabs {
-  background: #c0392b;
+  background: #2f6ca1;
   height: 40px;
   margin: 0;
   padding: 0;
@@ -34,7 +34,7 @@ body {
   padding: 0;
 }
 .tabs a {
-  background: #c0392b;
+  background: #2f6ca1;
   display: block;
   float: left;
   text-decoration: none;
@@ -52,7 +52,7 @@ body {
   text-align: center;
 }
 .tabs a.active {
-  background: #e74c3c;
+  background: #337ab7;
   border-right: none;
   -webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
